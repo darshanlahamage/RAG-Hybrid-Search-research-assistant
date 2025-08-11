@@ -4,7 +4,7 @@
 ---
 
 ## 🔍 Project Overview
-This project implements an **advanced Retrieval-Augmented Generation (RAG)** pipeline with a focus on **research paper exploration**.  
+This project implements an **Retrieval-Augmented Generation (RAG)** pipeline with a focus on **research paper exploration**.  
 Unlike generic RAG demos, it combines **semantic vector retrieval** with **lexical BM25 scoring** to maximize recall & precision, while enabling a side-by-side PDF reader for direct source inspection.
 
 The entire pipeline is optimized for **free-tier inference** and **non-local LLM execution** via **Groq API**, making it deployable even on CPU-limited machines.
