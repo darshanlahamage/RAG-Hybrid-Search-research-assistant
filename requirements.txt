@@ -1,0 +1,16 @@
+langchain
+langchain-community
+streamlit
+sentence-transformers
+transformers
+torch
+faiss-cpu>=1.7.4     
+qdrant-client>=1.8.0
+python-dotenv>=1.0.0
+pydantic>=1.10.10
+youtube-transcript-api
+pypdf
+python-pptx
+sentence-transformers
+langchain-groq>=0.1.0
+langchain-community
