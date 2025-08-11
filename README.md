@@ -73,7 +73,7 @@ flowchart LR
 
 ```bash
 # Clone repo
-git clone https://github.com/YOUR_USERNAME/rag-project.git
+git clone [https://github.com/YOUR_USERNAME/rag-project.git](https://github.com/darshanlahamage/RAG-Hybrid-Search-research-assistant.git)
 cd rag-project
 
 # Install dependencies
